@@ -1,0 +1,48 @@
+
+body{
+	margin:0;
+	padding:0;
+	color: #fff;
+	position: relative;
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+}
+
+.wrapper{
+  text-align: center;
+}
+
+.logo {
+	background-color: #ffffff;
+	padding: 32px;
+	border-radius: 3px;
+	text-align: center;
+}
+
+.header{
+	background-color: #ffffff;
+	padding: 60px 0px;
+}
+
+.content-wrap{
+	padding: 80px 0px;
+	text-align: center;
+}
+
+.comingsoon-title {
+	font-size: 30px;
+	font-weight: 300;
+	text-transform: uppercase;
+}
+
+.content{
+	background: #68b2b1;
+}
+
+.content a{
+	margin: 0 10px;
+}
+
+.fa {
+	color: #68b2b1;
+}
